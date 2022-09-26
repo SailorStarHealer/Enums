@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Enums/Enums/bin/Debug/net6.0/Enums
+/Users/sopwithcamel/Projects/Enums/Enums/bin/Debug/net6.0/Enums.deps.json
+/Users/sopwithcamel/Projects/Enums/Enums/bin/Debug/net6.0/Enums.runtimeconfig.json
+/Users/sopwithcamel/Projects/Enums/Enums/bin/Debug/net6.0/Enums.dll
+/Users/sopwithcamel/Projects/Enums/Enums/bin/Debug/net6.0/Enums.pdb
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.dll
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/refint/Enums.dll
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.pdb
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/Enums.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Enums/Enums/obj/Debug/net6.0/ref/Enums.dll
