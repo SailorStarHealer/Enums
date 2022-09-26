@@ -1,22 +1,16 @@
 ﻿class Program
 {
 
-//Define an enum Suits with values for Hearts, Spades, Diamonds, and Clubs.
+//Define an enum 'Suits' with values for Hearts, Spades, Diamonds, and Clubs.
     enum Suits
     {
-            //cast an enum value to an int by doing(int) in front of the variable.
-            //Then you can use that int as an index in your string or array.
         Hearts,
         Spades,
         Diamonds,
         Clubs,
     }
 
-    //Create a method DrawAce(Suits suit) that draws an ASCII graphic of
-    //an ace of that suit (use one of the symbols ♥♠♦♣ 
-
-
-    //When the suit 'heart' is called as a parametre, the console should output '♥'
+    //Create a method DrawAce(Suits suit) that draws one of the symbols ♥♠♦♣
     static string DrawAce(Suits suit)
     {
         //'symbols' is an array of strings.
@@ -24,10 +18,9 @@
 
         //Suits is an integer that contains the integer stored within the parametres.
              int selectedSuit = (int)suit;
+
+        //Returns the 'symbols' stored in the value equivilant to 'selectedSuit'.
         return symbols[selectedSuit];
-
-
-            //Cast an enum value to an int by doing (int) in front of the variable
 
     }
 
